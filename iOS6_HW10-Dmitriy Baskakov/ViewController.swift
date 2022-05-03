@@ -8,6 +8,8 @@ class ViewController: UIViewController {
         
     }
 
-
+    func chengeViewColor() {
+        view.backgroundColor = .systemRed
+    }
 }
 
